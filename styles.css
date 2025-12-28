@@ -1,0 +1,34 @@
+#homepage_title {
+    color: orange;
+    background-color: green;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.recipe {
+    font-size: 20px;
+}
+
+.recipe_title {
+    color: white;
+    background-color: purple;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.recipe_picture {
+    display: block;
+    margin: 0px auto;
+}
+
+.recipe_description {
+    background-color: rgb(115, 114, 138);
+}
+
+.recipe_ingredients {
+    background-color: rgb(174, 176, 42) ;
+}
+
+.recipe_steps {
+    background-color: rgb(196, 6, 184);
+}
